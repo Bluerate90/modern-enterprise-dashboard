@@ -31,7 +31,6 @@ AI-Powered Industry Monitoring Dashboard showcasing Wonna Technologies' capabili
 4. Build for production: `npm run build`
 
 ## 📁 Project Structure
-```
 wonna-smart-dashboard/
 ├── package.json
 ├── package-lock.json
@@ -46,7 +45,6 @@ wonna-smart-dashboard/
 ├── public/
 │   └── favicon.ico
 └── README.md
-```
 
 ## 🌐 Live Demo
 
