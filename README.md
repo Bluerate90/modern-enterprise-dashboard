@@ -49,8 +49,9 @@ modern-enterprise-dashboard/
 ## 🌐 Live Demo
 
 [https://wonna-smart-dashboard.vercel.app/]
+
 ## 📧 Contact
 
-Built for Wonna Technologies - Demonstrating modern web application capabilities.
+Built for Enterprise Technologies - Demonstrating modern web application capabilities.
 ```
 
