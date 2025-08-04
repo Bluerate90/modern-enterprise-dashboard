@@ -48,6 +48,11 @@ wonna-smart-dashboard/
 
 ## 🌐 Live Demo
 
+[Check out the live demo](https://wonna-smart-dashboard.vercel.app/)
+
+
+## 🌐 Live Demo
+
 [https://wonna-smart-dashboard.vercel.app/](https://wonna-smart-dashboard.vercel.app/)
 
 ## 📧 Contact
