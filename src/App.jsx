@@ -59,7 +59,7 @@ const App = () => {
         <div className="mb-8">
           <div className="flex items-center gap-3 mb-2">
             <Activity className="w-8 h-8 text-blue-400" />
-            <h1 className="text-3xl font-bold text-white">Wonna Smart Monitor</h1>
+            <h1 className="text-3xl font-bold text-white">Modern Enterprise Monitor</h1>
           </div>
           <p className="text-blue-200">AI-Powered Industry Monitoring Dashboard</p>
         </div>
@@ -209,7 +209,7 @@ const App = () => {
         {/* Footer */}
         <div className="mt-8 text-center">
           <p className="text-blue-200 text-sm">
-            Built with React, TypeScript & Recharts | Wonna Technologies Demo
+            Built with React, TypeScript & Recharts | Enterprise Technologies Demo
           </p>
         </div>
       </div>
