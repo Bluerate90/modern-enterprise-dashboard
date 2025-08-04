@@ -48,7 +48,7 @@ wonna-smart-dashboard/
 
 ## 🌐 Live Demo
 
-[Your deployed URL here]
+https://wonna-smart-dashboard.vercel.app/
 
 ## 📧 Contact
 
