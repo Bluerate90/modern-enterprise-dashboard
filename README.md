@@ -1,11 +1,11 @@
-# wonna-smart-dashboard
-Wonna Smart Dashboard - Complete Project Setup
+# modern-enterprise-dashboard
+Modern Enterprise Dashboard - Complete Project Setup
 
 ### `README.md`
 ```markdown
-# Wonna Smart Dashboard
+# Modern Enterprise Dashboard
 
-AI-Powered Industry Monitoring Dashboard showcasing Wonna Technologies' capabilities.
+AI-Powered Industry Monitoring Dashboard showcasing Enterprise Technologies' capabilities.
 
 ## 🚀 Features
 
@@ -31,7 +31,7 @@ AI-Powered Industry Monitoring Dashboard showcasing Wonna Technologies' capabili
 4. Build for production: `npm run build`
 
 ## 📁 Project Structure
-wonna-smart-dashboard/
+modern-enterprise-dashboard/
 ├── package.json
 ├── package-lock.json
 ├── index.html
@@ -48,8 +48,7 @@ wonna-smart-dashboard/
 
 ## 🌐 Live Demo
 
-[https://wonna-smart-dashboard.vercel.app/](https://wonna-smart-dashboard.vercel.app/)
-
+[https://wonna-smart-dashboard.vercel.app/]
 ## 📧 Contact
 
 Built for Wonna Technologies - Demonstrating modern web application capabilities.
