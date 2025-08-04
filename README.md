@@ -48,10 +48,10 @@ modern-enterprise-dashboard/
 
 ## 🌐 Live Demo
 
-[https://wonna-smart-dashboard.vercel.app/]
+[View Live Dashboar](https://modern-enterprise-dashboard.vercel.app/)
 
 ## 📧 Contact
 
-Built for Enterprise Technologies - Demonstrating modern web application capabilities.
+- [Email](tib9051@gmail.com)
 ```
 
