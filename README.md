@@ -49,9 +49,5 @@ modern-enterprise-dashboard/
 ## 🌐 Live Demo
 
 [View Live Dashboar](https://modern-enterprise-dashboard.vercel.app/)
-
-## 📧 Contact
-
-- [Email](tib9051@gmail.com)
 ```
 
