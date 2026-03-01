@@ -1,4 +1,4 @@
-# modern-enterprise-dashboard e
+# modern-enterprise-dashboard
 Modern Enterprise Dashboard - Complete Project Setup
 
 ### `README.md`
